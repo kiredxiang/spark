@@ -1,4 +1,5 @@
 import scala.math.Ordering;
+import scala.xml.dtd.SystemID;
 
 /**
  * @author xiangquanhong
@@ -7,6 +8,12 @@ import scala.math.Ordering;
  */
 public class test01 {
     public static void main(Ordering.String[] args) {
+
+
+
+    }
+    public static void main2(Ordering.String[] args) {
+
 
 
     }
