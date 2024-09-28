@@ -10,4 +10,8 @@ public class tt {
 
 
     }
+    public static void mai42(Ordering.String[] args) {
+
+
+    }
 }
