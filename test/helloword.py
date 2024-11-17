@@ -43,3 +43,4 @@ for root in root_nodes:
 # 创建DataFrame并输出
 result_df = pd.DataFrame(all_hierarchies, columns=['level_no', 'table_name', 'parent_tab'])
 print(result_df)
+print(result_df['table_name'].unique())
